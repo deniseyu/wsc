@@ -23,8 +23,9 @@ Thank you to everyone who donated time, energy, and the gift of feedback to this
 
 Thanks to Emma Pierson for her help clarifying and reviewing key arguments, to Clara Spera for sharing her thesis with me, and to the Columbia Debate Society for an unforgettable three years.
 
-Thanks to the following people for giving feedback on early versions of this talk: Gareth Smith,
+Thanks to the following people for giving feedback and listening to earlier versions of this talk: Gareth Smith,
 Maria Ntalla, Therese Stowell, Zoe Vance, Malory Ketcheson, Gigi Hanna, Ellie Ereira, Ruth Maclean,
 Paula Kennedy, Laurel Gray, Anna Utgoff, Alex Cohen, Jack Newberry, Oliver Stenbom, Chunyi Lyu, Giuseppe Capizzi,
 Jackie Ho, Simon Jones, and the rest of the Pivotal NYC team,
+Franzi Sauerwein, Sarah Young, James Spencer,
 Richard Westenra, Jen Spencer, Di Fu, Matthieu Bosquet, Joseph Eddy, Miriam Pierson, and Spike Lindsey.
