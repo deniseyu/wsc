@@ -1,5 +1,7 @@
 # "Competitive Debate, Gendered Speech Patterns and the Tech Industry"
 
+[Slides are here!](https://docs.google.com/presentation/d/1detd-49sAcYursxaIfo13EFJh9xY8QjTrQbTsAZCmj8/edit?usp=sharing)
+
 References
 
 * "Men Outspeak Women: Analysing the Gender Gap in Competitive Debate". Emma Pierson, 2013. [Link](http://mdr.monashdebaters.com/volume-11-2013/men-outspeak-women-analysing-the-gender-gap-in-competitive-debate/)
